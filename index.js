@@ -28,7 +28,7 @@ const displayUserEntries = () =>{
     <th>Name</th>
     <th>Email</th>
     <th>Password</th>
-    <th>Date of birth</th>
+    <th>Dob</th>
     <th>Accepted terms?</th>
     </tr>${tableEntries}</table>`;
 
